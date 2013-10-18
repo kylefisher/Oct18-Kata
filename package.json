@@ -1,0 +1,12 @@
+{
+    "name": "oct18-kata",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "mocha test.js"
+    },
+    "dependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "require": "*"
+    }
+}
