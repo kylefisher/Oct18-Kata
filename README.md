@@ -7,7 +7,9 @@ digits.js contains one method, getMiddleThreeDigits, that when given a valid int
 To Run
 ------
 clone repo
+
 npm install
+
 npm test
 
 Expected Results of using digits.js
